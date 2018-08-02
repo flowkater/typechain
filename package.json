@@ -9,5 +9,8 @@
   "devDependencies": {
     "tsc-watch": "^1.0.26",
     "typescript": "^3.0.1"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
   }
 }
