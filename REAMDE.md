@@ -2,6 +2,5 @@
 
 ```shell
 yarn init
-yarn global add typescript
+yarn add typescript
 ```
-
